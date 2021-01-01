@@ -1,0 +1,2 @@
+# tuyul
+Script buat nuyul
